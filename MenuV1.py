@@ -1,0 +1,6 @@
+print("Escoja una de rango de edad:")
+print("a. 18 a 25")
+print("b. 26 a 35")
+print("c. 36 a 45")
+print("d. 45 a 60")
+print("e. Mayores de 60")
